@@ -22,6 +22,8 @@ Los bots también pueden ser usados para crear arte, no hay que ser siempre algo
 [![N|Solid](https://i.imgur.com/VouA6ki.jpg)](https://twitter.com/clitoscope)
 
 
+
+
 ### Robota + feminista + gramática generativa + twitter
 
 [![N|Solid](https://media2.giphy.com/media/3og0ISTHRg4HSNKTao/giphy.gif)](https://twitter.com/clitoscope)
@@ -47,7 +49,8 @@ Reglas y diccionário de la Robota:
 }
 
 ```
-### Algunos resultados posibles:
+**Algunos resultados posibles:**
+
 _Buen día para **matar** **el patriarcado** con **una cuchara** **en la cocina**_
 
 _Buen día para **explotar** **Facebook** **en el auto**_
