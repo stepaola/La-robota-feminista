@@ -5,7 +5,7 @@ En esta guía vamos a crear algunas robotas en Twitter que hablan en una gramát
 
 Creado y adaptado de la guía [Making bots that make art](https://github.com/matteomenapace/making-bots-that-make-art).
 
-[Guía del taller](https://github.com/stepaola/La-robota-feminista/blob/master/Taller.md)
+📋[Guía del taller](https://github.com/stepaola/La-robota-feminista/blob/master/Taller.md)
 
 
 
