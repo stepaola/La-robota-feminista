@@ -16,9 +16,10 @@ Gramática generativa es un modelo gramatical cuyo objetivo es formular las regl
 
 ### Bot + gramática generativa
 Combinaciones de ropas:
-Suponemos que hay una maquina donde tu eliges algumas colores y tipos de ropas. Todos los días la máquina hace una combinación para ti basado en los tipos de ropas y colores que te guntan. Eso es un bot.
+Supongamos que hay una maquina donde tu eliges algunos colores y tipos de ropas. Todos los días la máquina hace una combinación para ti basado en los tipos de ropas y colores que te guntan. Eso es un bot.
 
-Los bots también pueden ser usados para crear arte, no hay que ser siempre algo con un objetivo real, util y específico. Como por ejemplo el @clitoscope - https://twitter.com/clitoscope: un bot que crea distintos clitoris con colores en 3D
+Los bots también pueden ser usados para crear arte, no hay que ser siempre algo con un objetivo real, util y específico. 
+Como por ejemplo el @clitoscope - https://twitter.com/clitoscope: un bot que crea distintos clitoris con colores en 3D
 [![N|Solid](https://i.imgur.com/VouA6ki.jpg)](https://twitter.com/clitoscope)
 
 
@@ -28,7 +29,7 @@ Los bots también pueden ser usados para crear arte, no hay que ser siempre algo
 
 [![N|Solid](https://media2.giphy.com/media/3og0ISTHRg4HSNKTao/giphy.gif)](https://twitter.com/clitoscope)
 
-Consiste en crear una sequencia de reglas con palabras que se van a combinar de manera aleatoria generando frases feministas com 140 letras y que van a ser publicadas automaticamente en una cuenta en Twitter.
+Consiste en crear una sequencia de reglas con palabras que se van a combinar de manera aleatoria generando frases feministas con 140 letras y que van a ser publicadas automaticamente en una cuenta en Twitter.
 
 **Una idea:**
 
@@ -58,7 +59,7 @@ _Buen día para **explotar** **Facebook** **en el auto**_
 ### Vamos a generar algunas ideas en grupos
 
 1. Nos vamos a dividir en grupos
-2. Cada grupo va a crear una idea de robota con la estructura de acuerdo con el ejemplo o creando otras combinaciones (30 minutos)
+2. Cada grupo va a crear una idea de robota con la estructura de acuerdo al ejemplo o creando otras combinaciones (30 minutos)
 3. Cada grupo crea una cuenta en Twitter para la robota con foto de perfil y portada + descripción (20 minutos)
 4. Usamos el sitio http://cheapbotsdonequick.com/ para generar el código y conectar nuestras reglas con el Twitter.
 
