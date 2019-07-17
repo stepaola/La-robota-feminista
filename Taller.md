@@ -21,45 +21,46 @@ Formo parte de la colectiva acoso.online, soy co-fundadora de la servidora femin
 Un bot (aféresis de robot) es un programa informático que efectúa automáticamente tareas repetitivas a través de Internet. Normalmente, estos bots ejecutan tareas simples y estructuralmente repetitivas. (Wikipedia)
 
 Cuando actúan en conjunto se le suele decir granja de bots. Rara vez son influyentes, pero sí ayudan a generar trending topics -los temas que Twitter considera “calientes” en cierto momento y destaca en su plataforma- o generan “ruido” acerca de un tema. (Chequeado)
-
+<br/><br/>
 
 #### Bots x Trolls
 
 Un troll es alguien enfocado en acosar, criticar o antagonizar de manera provocadora y despectiva. La palabra originalmente refiere a desagradables personajes folclóricos que viven en las cavernas escandinavas. (Chequeado)
 
-
+<br/><br/>
 
 
 ### Usos y posibilidades de robotas para internet feminista: diversión + lucha
 
 - [@Botota](https://twitter.com/bototadice)
 ![enter image description here](https://i.imgur.com/ELUB0RA.jpg)
-
+<br/><br/>
 
 - [@lachakalarixxo](https://twitter.com/LACHAKALARIXXO)
 ![](https://i.imgur.com/xfQik76.jpg)
 
-
+<br/><br/>
 - [@DominemoslasTIC](https://twitter.com/DominemoslasTIC)
 ![enter image description here](https://i.imgur.com/8pKxtOR.png)
 
-
+<br/><br/>
 - [Acoso.online Bot para Telegram](https://acoso.online/cl/chat-de-ayuda/)
+
 ![enter image description here](https://media.giphy.com/media/jtv3zdHN5DqPQ1j6Fy/giphy.gif)
 
-
+<br/><br/>
 - [Beta, Bot para Facebook](bit.ly/chamabetanoinbox)
 ![enter image description here](https://i.imgur.com/2IIc6Zb.jpg)
 
-
+<br/><br/>
 - [@clitoscope](https://twitter.com/clitoscope)
 ![N|Solid](https://i.imgur.com/VouA6ki.jpg)
 
-
+<br/><br/>
 - [@softlandscapes](https://twitter.com/softlandscapes)
 ![enter image description here](https://i.imgur.com/iF6i8Qe.png)
 
-
+<br/><br/>
 ---
 ### Nuestras robotas
 Conceptualmente en este manual vamos utilizar la teoria de la gramática generativa para crear nuestra robota. 
@@ -74,7 +75,7 @@ Gramática generativa es un modelo gramatical cuyo objetivo es formular las regl
 Ejemplo: 
 Supongamos que hay una maquina donde tu eliges algunos colores y tipos de ropas. Todos los días la máquina hace una combinación para ti basado en los tipos de ropas y colores que te gusta. Si con ese concepto creas frases, tenemos un bot basado en una gramática generativa.
 
-
+<br/><br/><br/>
 
 ### Manos a la obra!
 1. Concepto de la robota: ideas? 
